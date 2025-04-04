@@ -741,6 +741,6 @@ Once all the information is collected and organized in dataframes, a data analys
 
 ### a. Data Findings
 
-* No one have spent more than $20.00 in the game.
+* No one has spent more than $20.00 in the game.
 * Most purchases are made by men from 18 to 25 years old.
 * Most popular items prices are below the average item price.
