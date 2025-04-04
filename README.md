@@ -737,7 +737,9 @@ profit_df.head()
 
 ## 4. Data Analysis
 
-Once all the information is collected and organized in dataframes, a data analysis is conducted to identify trends and patterns present in the provided data.
+Once all the information is collected and organized in dataframes, a data analysis is conducted to identify trends and patterns present in the provided data. Purchase analysis report built in Power BI.
+![Screenshot 2025-04-04 162731](https://github.com/user-attachments/assets/21fc1552-e8ef-4f50-8e1c-f35b5681f600)
+
 
 ### a. Data Findings
 
